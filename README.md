@@ -3,22 +3,22 @@ wiki的作用是帮助大家更好地理解cornerstone、查阅并参考cornerst
 
 ## 概念
 * [Enabled Elements](./enabled-element.md)
-* [ImageIds](ImageIds)
-* [ImageLoaders](ImageLoader)
-* [Image Object](image)
-* [Viewport](viewport)
-* [Pixel Coordinate System](pixel-coordinate-system)
-* [Architecture](architecture)
-* [Rendering loop](Rendering-loop)
+* [ImageIds](./ImageIds.md)
+* [ImageLoaders](./ImageLoader.md)
+* [Image Object](./image.md)
+* [Viewport](./viewport.md)
+* [Pixel Coordinate System](./pixel-coordinate-system.md)
+* [Architecture](./architecture.md)
+* [Rendering loop](./Rendering-loop.md)
 
 ## API参考
 ### cornerstone事件（Events）
 
-* [CornerstoneImageRendered Event](CornerstoneImageRendered-Event)
-* [CornerstoneNewImage Event](CornerstoneNewImage-Event)
-* [CornerstoneImageLoaded Event](CornerstoneImageLoaded-Event)
-* [CornerstoneImageLoadProgress Event](CornerstoneImageLoadProgress-Event)
-* [CornerstoneElementDisabled Event](CornerstoneElementDisabled-Event)
+* [CornerstoneImageRendered Event](./CornerstoneImageRendered-Event.md)
+* [CornerstoneNewImage Event](./CornerstoneNewImage-Event.md)
+* [CornerstoneImageLoaded Event](./CornerstoneImageLoaded-Event.md)
+* [CornerstoneImageLoadProgress Event](./CornerstoneImageLoadProgress-Event.md)
+* [CornerstoneElementDisabled Event](./CornerstoneElementDisabled-Event.md)
 
 ### Enable/Disable
 
